@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Faruna Anthony</div>
 <div align="center">
   
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4285F4&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Faruna+Anthony;Full-Stack+Engineer;JavaScript+%26+Python+Specialist;React+%26+Node.js+Expert;AI+Enthusiast" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4285F4&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Mhatons;Full-Stack+Engineer;JavaScript+%26+Python+Specialist;React+%26+Node.js+Expert;AI+Enthusiast" alt="Typing SVG" />
 
 <a href="https://mhatonsportfolio.netlify.app/index.html">
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
